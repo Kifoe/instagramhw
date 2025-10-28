@@ -14,7 +14,7 @@ class ProfilePage extends StatelessWidget {
   final String bio =
       '🧠 Creative thinker | 📸 Visual poet\n🌍 Lviv | 💡 KazkoTherapy founder';
   final String avatarUrl =
-      'https://example.com/avatar.jpg'; // заміни на реальне посилання
+     'asstes/tipa_ava_lol.jpeg';
 
   @override
   Widget build(BuildContext context) {
